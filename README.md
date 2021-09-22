@@ -1,7 +1,7 @@
 # Speech to Text Project
 ### About: 
 
-For this project, I implemented speech to text using Python. I used the libraries speech_recognition, os, AudioSegment from pydub, and split_on_silence from pydub.silence which helped me to build the project.
+For this project, I implemented speech to text using Python. I used the libraries speech_recognition which helped me to build the project.
 
 ### Note:
 
